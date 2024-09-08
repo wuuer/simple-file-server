@@ -1,0 +1,9 @@
+[package]
+name = "simple-file-server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+once_cell = "1.19.0"
+infer = "0.16.0"
+url-escape = "0.1.1"
