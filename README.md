@@ -1,1 +1,1 @@
-wwwroot is the server root path.
+wwwroot folder is the server root path.
